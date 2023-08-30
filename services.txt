@@ -1,0 +1,79 @@
+<html>
+    <head>
+        <link rel="STYLESHEET" href="style.css">
+        <style>
+
+.content{
+    position:absolute;
+    background-color: rgba(0,0,0,0.5);
+    top:30%;
+    left:60%;
+     color:beige;
+     justify-content: center;
+     align-items: center;
+}
+.content p{
+    font-family:sans-serif;
+    padding:0px 10px;
+    font-size:20px;
+
+} 
+.overlay{
+    background-color:rgba(0,0,0,0.5);
+    height:100vh;
+}
+.header{
+    background-image:url("rest1.jpg");
+
+    background-position:right;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+    height:100vh;
+}
+
+
+       </style>
+    </head>
+    <body>
+        <div class="main">
+            <div class="wrapper">
+                <div class="header">
+                    <nav>
+                        <div class="logo">
+                            <a href="">SRIFOODS</a>
+                        </div>
+                        <ul>
+                            <li><a href="index.html">HOME</a></li>
+                            <li><a href="about.html">ABOUT</a></li>
+                            <li><a href="food.html">FOOD</a></li>
+                            <li><a href="services.html">SERVICES</a></li>
+                            <li><a href="contact.html">CONTACT</a></li>
+                        </ul>
+                    </nav>
+                   
+                        <div class="content" >
+                            <h1 style="color:red"><center>SERVICES</center></h1>
+                            <p>Sevices provided by us...!</p>
+                            <p>we provide best food services all over the city<br>we have provide certain facilities like ...</p>
+                            <li style="color:red">prebooking the slots  </li>
+                            <li style="color:white">online booking and offline booking</li>
+                            <li style="color:red">home delivery</li> 
+                            <li style="color:white">cash on delivery</li>
+                            <li style="color:red">online payment</li>
+                            <li style="color:white">special offers</li>
+                            <li style="color:red">combo offers</li>
+                            <h3>best place to enjoy food with your friends and families</h3>
+                    </div>
+    
+                </div>
+            </div>
+        </div>
+        
+    </body>
+    </html>
+                
+    
+      
+    
+
