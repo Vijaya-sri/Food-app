@@ -1,0 +1,205 @@
+<html>
+    <head>
+        <link rel="STYLESHEET" href="style.css">
+        <style>
+.header{
+    background-image:url("foods.jpeg");
+
+    background-position:right;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+    height:100vh;
+
+
+}
+.content{
+    position:absolute;
+    background-color: rgba(0,0,0,0.5);
+    top:16%;
+    left:35%;
+     color:beige;
+     justify-content: center;
+     align-items: center;
+}
+.content {
+    padding:0px 10px;
+    font-size:20px;
+
+} 
+.overlay{
+    background-color:rgba(0,0,0,0.5);
+    height:100vh;
+}
+.content2{
+    position:absolute;
+    background-color: rgba(0,0,0,0.5);
+    top:15%;
+    left:50%;
+     color:beige;
+     justify-content: center;
+     align-items: center;
+}
+.content2{
+    padding:0px 10px;
+    font-size:20px;
+
+} 
+
+
+
+
+
+        </style>
+    </head>
+    <body>
+        <div class="main">
+            <div class="wrapper">
+                <div class="header">
+                    <nav>
+                        <div class="logo">
+                            <a href="">SRIFOODS</a>
+                        </div>
+                        <ul>
+                            <li><a href="index.html">HOME</a></li>
+                            <li><a href="about.html">ABOUT</a></li>
+                            <li><a href="food.html">FOOD</a></li>
+                            <li><a href="services.html">SERVICES</a></li>
+                            <li><a href="contact.html">CONTACT</a></li>
+                        </ul>
+                    </nav>
+                   <div class="image">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpd3607CFf6GVbOJqLlduVZhXBwAoUiJr3Rg&usqp=CAU" style="left:10%;top:10%"/>
+                    
+                   </div>
+                       <div class="content"> 
+                       
+                            <h1 style="color:red"><center>FOODS</center></h1>
+                            <table border="5" cellpadding="15" cellspacing="15" border-width="5" border-style="dotted" width="100" height="100" bgcolor:black style="color:white">
+                                <tr>
+                                  <th colspan="2">MENU</th>
+                                </tr>
+                                <tr>
+                                  <th>ITEM</th>
+                                  <th>COST</th>
+                                </tr>
+                                <tr>
+                                <th colspan="2">MILKSHAKES</th>
+                              </tr>
+                              <tr>
+                              <td>blackcurrent</td>
+                              <td>rs.160</td>
+                            </tr>
+                            <tr>
+                              <td>vennila</td>
+                              <td>rs.130</td>
+                            </tr><tr>
+                              <td>strawberry</td>
+                              <td>rs.150</td>
+                            </tr><tr>
+                              <td>chocolate</td>
+                              <td>rs.120</td>
+                            </tr><tr>
+                              <td>bhadam</td>
+                              <td>rs.150</td>
+                            
+                        <tr>
+                                <th colspan="2">VEGETARIAN</th>
+                              </tr>
+                              <tr>
+                              <td>dosa</td>
+                              <td>rs.60</td>
+                            </tr>
+                            <tr>
+                              <td>idly</td>
+                              <td>rs.30</td>
+                            </tr><tr>
+                              <td>noon</td>
+                              <td>rs.50</td>
+                            </tr>
+                            <tr>
+                                <td>fried rice</td>
+                                <td>rs.250</td>
+                              </tr><tr>
+                              <td>panner fry</td>
+                              <td>rs.120</td>
+                            </tr><tr>
+                              <td>mushroomfry</td>
+                              <td>rs.150</td>
+                            </tr>
+
+                              </table>
+                           
+                    
+                    </div><div class="content2">
+                        <h1 style="color:red"><center>FOODS</center></h1>
+                        <table border="5" cellpadding="15" cellspacing="15" border-width="5" border-style="dotted" width="100" height="100" bgcolor:black style="color:white">
+                            <tr>
+                              <th colspan="2">MENU</th>
+                            </tr>
+                            <tr>
+                              <th>ITEM</th>
+                              <th>COST</th>
+                            </tr>
+                            <tr>
+                            <th colspan="2">NONVEGETARIAN</th>
+                          </tr>
+                          <tr>
+                          <td>biriyani</td>
+                          <td>rs.260</td>
+                        </tr>
+                        <tr>
+                          <td>tandoori</td>
+                          <td>rs.330</td>
+                        </tr><tr>
+                          <td>BBQ</td>
+                          <td>rs.550</td>
+                        </tr><tr>
+                          <td>chicken fried rice</td>
+                          <td>rs.250</td>
+                        </tr><tr>
+                          <td>chicken noodles</td>
+                          <td>rs.250</td>
+                        </tr>
+                        <tr>
+                            <th colspan="2">DESSERTS</th>
+                          </tr>
+                          <tr>
+                          <td>ice creams</td>
+                          <td>rs.120</td>
+                        </tr>
+                        <tr>
+                          <td>chocolates</td>
+                          <td>rs.100</td>
+                        </tr><tr>
+                          <td>cassaata</td>
+                          <td>rs.120</td>
+                        </tr><tr>
+                          <td>icecakes</td>
+                          <td>rs.320</td>
+                        </tr><tr>
+                          <td>puddings</td>
+                          <td>rs.150</td>
+                        </tr>
+
+                          </table>
+                       
+                
+                </div>
+                    
+    
+                </div>
+            </div>
+        </div>
+        
+    </body>
+    </html>
+                
+    
+      
+    
+</div>
+      </div>
+    </body>           
+    
+</html>
